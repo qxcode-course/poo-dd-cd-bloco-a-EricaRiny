@@ -1,0 +1,97 @@
+2025-09-29 15:31:53, MOVE, v:1, k:toalha, mode:DOWN
+2025-09-29 15:31:55, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 15:31:57, EXEC, v:1, k:toalha, mode:LOCK, rate:100, size:0
+2025-09-29 15:32:17, EXEC, v:1, k:toalha, mode:FREE, size:51
+2025-09-29 15:33:03, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 15:51:41, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 15:53:27, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 15:54:00, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 15:55:15, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 15:55:59, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 15:56:52, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 15:57:24, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 15:57:24, EXEC, v:1, k:toalha, mode:LOCK, rate:0, size:50
+2025-09-29 15:57:34, EXEC, v:1, k:toalha, mode:LOCK, rate:0
+2025-09-29 15:57:58, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 15:57:58, EXEC, v:1, k:toalha, mode:LOCK, rate:0
+2025-09-29 15:59:11, MOVE, v:1, k:toalha, mode:BACK
+2025-09-29 16:03:42, SELF, v:1, k:toalha, rate:100, iagen:sim__mas_usei_apenas_para_entender_alguns_conceitos_como__por_exemplo___str__e__init_, alone:9, study:2
+2025-09-29 16:03:44, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 16:03:45, EXEC, v:1, k:toalha, mode:LOCK, rate:0
+2025-09-29 16:05:26, MOVE, v:1, k:toalha, mode:BACK
+2025-09-29 16:06:05, MOVE, v:1, k:animal, mode:DOWN
+2025-09-29 16:06:07, MOVE, v:1, k:animal, mode:PICK
+2025-09-29 16:06:11, EXEC, v:1, k:animal, mode:FULL, rate:0, size:0
+2025-09-29 16:58:19, EXEC, v:1, k:animal, mode:FULL, rate:0
+2025-09-29 16:59:36, EXEC, v:1, k:animal, mode:FULL, rate:0
+2025-09-29 17:00:08, EXEC, v:1, k:animal, mode:FULL, rate:0, size:32
+2025-09-29 17:01:03, EXEC, v:1, k:animal, mode:FULL, rate:0, size:32
+2025-09-29 17:12:26, EXEC, v:1, k:animal, mode:FULL, rate:0, size:35
+2025-09-29 17:13:10, EXEC, v:1, k:animal, mode:FULL, rate:0
+2025-09-29 17:15:49, EXEC, v:1, k:animal, mode:FULL, rate:0, size:39
+2025-09-29 17:19:27, EXEC, v:1, k:animal, mode:FULL, rate:0, size:43
+2025-09-29 17:24:32, EXEC, v:1, k:animal, mode:FULL, rate:0, size:43
+2025-09-29 17:25:27, EXEC, v:1, k:animal, mode:FULL, rate:0, size:43
+2025-09-29 17:26:25, EXEC, v:1, k:animal, mode:FULL, rate:0, size:43
+2025-09-29 17:26:41, EXEC, v:1, k:animal, mode:FULL, rate:0, size:43
+2025-09-29 17:27:52, EXEC, v:1, k:animal, mode:FULL, rate:0, size:43
+2025-09-29 17:28:24, EXEC, v:1, k:animal, mode:FULL, rate:0
+2025-09-29 17:28:48, EXEC, v:1, k:animal, mode:FULL, rate:25, size:42
+2025-09-29 18:43:22, MOVE, v:1, k:animal, mode:PICK
+2025-09-29 18:43:23, EXEC, v:1, k:animal, mode:FULL, rate:25
+2025-09-29 19:02:57, EXEC, v:1, k:animal, mode:FREE, size:42
+2025-09-29 19:03:31, EXEC, v:1, k:animal, mode:FREE, size:39
+2025-09-29 19:37:56, MOVE, v:1, k:animal, mode:PICK
+2025-09-29 19:38:00, EXEC, v:1, k:animal, mode:FREE, size:43
+2025-09-29 19:40:47, MOVE, v:1, k:animal, mode:PICK
+2025-09-29 19:40:50, EXEC, v:1, k:animal, mode:FULL, rate:25
+2025-09-29 19:44:50, EXEC, v:1, k:animal, mode:FREE
+2025-09-29 19:46:49, MOVE, v:1, k:animal, mode:PICK
+2025-09-29 19:46:54, EXEC, v:1, k:animal, mode:FREE, size:41
+2025-09-29 19:48:10, MOVE, v:1, k:animal, mode:PICK
+2025-09-29 19:48:26, EXEC, v:1, k:animal, mode:FULL, rate:0
+2025-09-29 19:49:02, EXEC, v:1, k:animal, mode:FULL, rate:25, size:43
+2025-09-29 19:52:29, EXEC, v:1, k:animal, mode:FULL, rate:25, size:43
+2025-09-29 19:53:00, EXEC, v:1, k:animal, mode:FULL, rate:50, size:44
+2025-09-29 20:01:27, EXEC, v:1, k:animal, mode:FULL, rate:100, size:55
+2025-09-29 20:01:38, MOVE, v:1, k:animal, mode:BACK
+2025-09-29 20:01:50, MOVE, v:1, k:animal, mode:PICK
+2025-09-29 20:01:52, MOVE, v:1, k:animal, mode:BACK
+2025-09-29 20:05:34, SELF, v:1, k:animal, rate:100, human:monitor_vitim_e_luiza_me_ajudaram_na_parte_de_fazer_os_testes, guide:aula_da_playlist_dd_cd, alone:8, study:120
+2025-09-29 20:10:54, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 20:23:28, EXEC, v:1, k:toalha, mode:FREE, size:25
+2025-09-29 20:31:27, MOVE, v:1, k:animal, mode:PICK
+2025-09-29 20:31:30, MOVE, v:1, k:animal, mode:BACK
+2025-09-29 20:31:31, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 20:31:38, EXEC, v:1, k:toalha, mode:FREE, size:29
+2025-09-29 20:32:59, MOVE, v:1, k:animal, mode:PICK
+2025-09-29 20:33:01, MOVE, v:1, k:animal, mode:BACK
+2025-09-29 20:33:03, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 20:33:04, EXEC, v:1, k:toalha, mode:LOCK, rate:0
+2025-09-29 20:33:10, MOVE, v:1, k:toalha, mode:BACK
+2025-09-29 20:33:19, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 20:33:22, EXEC, v:1, k:toalha, mode:FREE
+2025-09-29 20:42:37, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 20:42:39, EXEC, v:1, k:toalha, mode:FREE, size:47
+2025-09-29 20:44:49, EXEC, v:1, k:toalha, mode:FREE, size:47
+2025-09-29 20:46:31, EXEC, v:1, k:toalha, mode:FREE, size:47
+2025-09-29 20:53:20, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 20:53:30, EXEC, v:1, k:toalha, mode:FREE
+2025-09-29 20:54:48, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 20:54:57, EXEC, v:1, k:toalha, mode:FREE
+2025-09-29 20:58:50, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 20:58:52, EXEC, v:1, k:toalha, mode:FREE, size:56
+2025-09-29 21:02:07, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 21:02:09, EXEC, v:1, k:toalha, mode:FREE, size:60
+2025-09-29 21:06:20, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 21:06:42, EXEC, v:1, k:toalha, mode:FREE, size:60
+2025-09-29 21:08:09, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 21:08:11, EXEC, v:1, k:toalha, mode:FREE, size:60
+2025-09-29 21:10:24, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 21:10:30, MOVE, v:1, k:toalha, mode:BACK
+2025-09-29 21:10:35, MOVE, v:1, k:toalha, mode:PICK
+2025-09-29 21:10:39, MOVE, v:1, k:toalha, mode:BACK
+2025-09-29 21:10:58, MOVE, v:1, k:animal, mode:PICK
+2025-09-29 21:11:00, MOVE, v:1, k:animal, mode:BACK
+2025-09-29 21:11:02, MOVE, v:1, k:animal, mode:PICK
+2025-09-29 21:11:04, MOVE, v:1, k:animal, mode:BACK
