@@ -21,7 +21,7 @@ class Towel:
     def dry(self, amount:int):
         self.wetness += amount
         if self.wetness>self.getMaxWetness():
-            print("enxarcada")
+            print("encharcada")
             self.wetness=self.getMaxWetness()
 
     def wringOut(self):
