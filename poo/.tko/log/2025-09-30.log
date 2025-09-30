@@ -23,3 +23,30 @@
 2025-09-30 08:30:33, EXEC, v:1, k:enxugar, mode:FULL, rate:100, size:71
 2025-09-30 08:32:01, MOVE, v:1, k:enxugar, mode:BACK
 2025-09-30 08:33:14, SELF, v:1, k:enxugar, rate:100, alone:10, study:30
+2025-09-30 08:59:44, MOVE, v:1, k:carro, mode:DOWN
+2025-09-30 08:59:46, MOVE, v:1, k:carro, mode:PICK
+2025-09-30 09:16:28, EXEC, v:1, k:carro, mode:FULL, rate:0, size:24
+2025-09-30 09:17:42, EXEC, v:1, k:carro, mode:FULL, rate:0, size:27
+2025-09-30 09:18:21, EXEC, v:1, k:carro, mode:FULL, rate:0, size:27
+2025-09-30 09:20:27, EXEC, v:1, k:carro, mode:FULL, rate:10, size:29
+2025-09-30 09:24:59, EXEC, v:1, k:carro, mode:FULL, rate:20, size:36
+2025-09-30 09:25:35, EXEC, v:1, k:carro, mode:FULL, rate:30, size:36
+2025-09-30 09:29:18, EXEC, v:1, k:carro, mode:FULL, rate:30, size:43
+2025-09-30 09:30:16, EXEC, v:1, k:carro, mode:FULL, rate:40, size:45
+2025-09-30 09:31:58, EXEC, v:1, k:carro, mode:FULL, rate:40, size:45
+2025-09-30 09:32:35, EXEC, v:1, k:carro, mode:FULL, rate:40, size:45
+2025-09-30 09:33:19, EXEC, v:1, k:carro, mode:FULL, rate:40, size:46
+2025-09-30 10:12:03, EXEC, v:1, k:carro, mode:FULL, rate:40, size:45
+2025-09-30 10:14:28, EXEC, v:1, k:carro, mode:FULL, rate:50, size:45
+2025-09-30 10:24:15, EXEC, v:1, k:carro, mode:FULL, rate:60, size:54
+2025-09-30 10:36:20, MOVE, v:1, k:carro, mode:PICK
+2025-09-30 10:36:23, EXEC, v:1, k:carro, mode:FULL, rate:70, size:67
+2025-09-30 10:44:06, EXEC, v:1, k:carro, mode:FULL, rate:70, size:68
+2025-09-30 10:44:57, EXEC, v:1, k:carro, mode:FULL, rate:80, size:68
+2025-09-30 10:45:17, EXEC, v:1, k:carro, mode:FULL, rate:80, size:68
+2025-09-30 10:45:33, EXEC, v:1, k:carro, mode:FULL, rate:80, size:68
+2025-09-30 10:45:55, EXEC, v:1, k:carro, mode:FULL, rate:80, size:68
+2025-09-30 10:58:39, EXEC, v:1, k:carro, mode:FULL, rate:80, size:70
+2025-09-30 11:01:36, EXEC, v:1, k:carro, mode:FULL, rate:80, size:72
+2025-09-30 11:01:59, EXEC, v:1, k:carro, mode:FULL, rate:100, size:72
+2025-09-30 11:03:46, EXEC, v:1, k:carro, mode:FULL, rate:100, size:72
