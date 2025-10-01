@@ -10,11 +10,11 @@ expanded:
 - bloco_b-primeiras-classes
 tasks:
   toalha: '{rate:100, iagen:sim__mas_usei_apenas_para_entender_alguns_conceitos_como__por_exemplo___str__e__init_,
-
     alone:9, study:2}'
   animal: '{rate:100, human:monitor_vitim_e_luiza_me_ajudaram_na_parte_de_fazer_os_testes,
-
     guide:aula_da_playlist_dd_cd, alone:8, study:120}'
+  carro: '{rate:100, alone:10, study:90}'
+  calculadora: '{rate:100, human:professor_tirou_uma_duvida, alone:9, study:100}'
   enxugar: '{rate:100, alone:10, study:30}'
 flags:
   quests: 0
